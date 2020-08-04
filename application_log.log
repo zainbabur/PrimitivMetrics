@@ -1,0 +1,76 @@
+2020-07-28 21:43:05,720 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:46:28,896 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:46:29,464 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:46:29,652 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:46:29,826 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:46:30,023 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:46:59,715 WARNING:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:48:56,121 ERROR:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 21:50:46,170 ERROR:127.0.0.1 [Errno 111] Connection refused
+2020-07-28 21:57:38,718 ERROR:127.0.0.1 [Errno 111] Connection refused
+2020-07-28 21:59:29,964 ERROR:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 22:00:01,826 ERROR:39.50.98.44 [Errno 111] Connection refused
+2020-07-28 22:00:36,261 ERROR:127.0.0.1 [Errno 111] Connection refused
+2020-07-28 22:09:53,886 ERROR:127.0.0.1 [Errno 111] Connection refused
+2020-07-28 22:11:09,803 INFO:127.0.1.1 Connection successful
+2020-07-28 22:11:47,945 INFO:127.0.1.1 Connection successful
+2020-07-28 22:11:49,359 INFO:127.0.1.1 Connection successful
+2020-07-28 22:29:10,754 INFO:127.0.1.1 Connection successful
+2020-07-28 22:29:10,764 ERROR:192.168.10.4 [Errno 106] Transport endpoint is already connected
+2020-07-28 22:29:46,714 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-07-28 22:29:46,717 INFO:192.168.10.4 Connection successful
+2020-07-28 22:31:09,169 ERROR:192.168.10.12 [Errno 111] Connection refused
+2020-07-28 22:31:09,172 INFO:192.168.10.4 Connection successful
+2020-07-28 22:31:50,517 INFO:127.0.1.1 Connection successful
+2020-07-28 22:31:50,526 ERROR:192.168.10.4 [Errno 106] Transport endpoint is already connected
+2020-08-04 21:11:45,883 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-08-04 21:11:45,954 INFO:192.168.10.9 Connection successful
+2020-08-04 21:12:12,676 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-08-04 21:12:12,678 INFO:192.168.10.9 Connection successful
+2020-08-04 21:14:41,789 INFO:127.0.1.1 Connection successful
+2020-08-04 21:14:41,799 ERROR:192.168.10.9 [Errno 106] Transport endpoint is already connected
+2020-08-04 21:15:34,788 INFO:127.0.1.1 Connection successful
+2020-08-04 21:15:34,800 INFO:192.168.10.9 Connection successful
+2020-08-04 21:16:31,073 INFO:127.0.1.1 Connection successful
+2020-08-04 21:16:31,085 INFO:192.168.10.9 Connection successful
+2020-08-04 21:16:35,168 INFO:127.0.1.1 Connection successful
+2020-08-04 21:16:35,178 INFO:192.168.10.9 Connection successful
+2020-08-04 21:59:14,118 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-08-04 21:59:14,124 INFO:192.168.10.9 Connection successful
+2020-08-04 22:04:54,777 INFO:127.0.1.1 Connection successful
+2020-08-04 22:10:25,914 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-08-04 22:10:26,092 INFO:192.168.10.9 Connection successful
+2020-08-04 22:11:34,298 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-08-04 22:11:49,763 INFO:192.168.10.9 Connection successful
+2020-08-04 22:12:39,863 ERROR:127.0.1.1 [Errno 111] Connection refused
+2020-08-04 22:12:39,866 INFO:192.168.10.9 Connection successful
+2020-08-04 22:14:16,538 INFO:127.0.1.1 Connection successful
+2020-08-04 22:14:16,551 INFO:192.168.10.9 Connection successful
+2020-08-04 22:15:02,338 INFO:127.0.1.1 Connection successful
+2020-08-04 22:15:02,348 INFO:192.168.10.9 Connection successful
+2020-08-04 22:15:03,120 INFO:127.0.1.1 Connection successful
+2020-08-04 22:15:03,134 INFO:192.168.10.9 Connection successful
+2020-08-04 22:15:03,720 INFO:127.0.1.1 Connection successful
+2020-08-04 22:15:03,733 INFO:192.168.10.9 Connection successful
+2020-08-04 22:17:19,531 INFO:127.0.1.1 Connection successful
+2020-08-04 22:17:19,545 INFO:192.168.10.9 Connection successful
+2020-08-04 22:17:55,211 INFO:127.0.1.1 Connection successful
+2020-08-04 22:17:55,221 INFO:192.168.10.9 Connection successful
+2020-08-04 22:17:56,083 INFO:127.0.1.1 Connection successful
+2020-08-04 22:17:56,096 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:11,602 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:11,614 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:12,046 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:12,058 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:12,228 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:12,241 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:12,404 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:12,416 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:12,574 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:12,586 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:12,743 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:12,755 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:12,911 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:12,922 INFO:192.168.10.9 Connection successful
+2020-08-04 22:18:13,092 INFO:127.0.1.1 Connection successful
+2020-08-04 22:18:13,106 INFO:192.168.10.9 Connection successful

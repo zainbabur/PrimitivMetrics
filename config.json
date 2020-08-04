@@ -1,0 +1,7 @@
+{
+    "buffer_size":"20",
+    "header_size":"20",
+    "csv_output":"/home/zain/PythonProjects/PrimitivMetrics/metrics.csv",
+    "output_field_names":["datetime","ip","cpu_pc","cpu_temp","ram_pc"],
+    "workers_input":"/home/zain/PythonProjects/PrimitivMetrics/worker-list.json"
+}
